@@ -6,7 +6,6 @@ from dotenv import load_dotenv
 load_dotenv()   
 
 clave_api = os.getenv("GEMINI_API_KEY")
-
 cliente = genai.Client(api_key=clave_api)
 
 def ejecutar_consulta():

@@ -2,6 +2,7 @@ import requests
 import sys
 import os
 
+
 def verificar_configuracion():
     print("Verificando configuración del entorno...")
 
