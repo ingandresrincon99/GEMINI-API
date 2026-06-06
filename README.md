@@ -10,6 +10,7 @@ Este proyecto permite conectarse a la API de Google Gemini utilizando Python par
 GEMINI-API/
 │
 ├── app_gemini.py
+├── app_gemini_v2.py
 ├── prueba_entorno.py
 ├── requirements.txt
 ├── .env
