@@ -85,3 +85,8 @@ python app_gemini.py
 ```bash
 python prueba_entorno.py
 ```
+## 📸 Imágenes del proyecto
+
+!(images/Cap_prueba_app_gemini.png)
+
+!(images/Cap_prueba_entorno.png)
