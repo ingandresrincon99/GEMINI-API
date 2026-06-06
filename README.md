@@ -87,6 +87,6 @@ python prueba_entorno.py
 ```
 ## 📸 Imágenes del proyecto
 
-!(images/Cap_prueba_app_gemini.png)
+![Captura prueba app gemini](images/Cap_prueba_app_gemini.png)
 
-!(images/Cap_prueba_entorno.png)
+![Captura prueba entorno](images/Cap_prueba_entorno.png)
